@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adautocs1
 - 👀 I’m interested in codes to automate Data Analysis
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science, Machine Learning and Python at Github Copilot
 - 💞️ I’m looking to collaborate on IT Audit tools on Big Data Analysis
 - 📫 How to reach me: adautocs1b@gmail.com
 
